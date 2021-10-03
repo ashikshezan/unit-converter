@@ -1,6 +1,6 @@
 # unit_converter
 
-This is simple number convertion tool. A sample package for python package structure demonstration
+This is a simple number conversion tool. A sample package for python package structure demonstration.
 A package for converting between unit lengths and weights.
 
 ### Features
