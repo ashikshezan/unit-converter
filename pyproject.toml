@@ -5,11 +5,13 @@ description = ""
 authors = ["shezan <ashikshezan@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "3.9"
+numpy = "^1.21.2"
 pandas = "^1.3.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+autopep8 = "^1.5.7"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
