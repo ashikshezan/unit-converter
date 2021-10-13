@@ -1,7 +1,7 @@
 """User-facing functions."""
 import numpy as np
-from impyrial.utils import check_units
-from impyrial.length.core import (
+from unit_converter.utils import check_units
+from unit_converter.length.core import (
     UNITS,
     inches_to_feet,
     inches_to_yards,
